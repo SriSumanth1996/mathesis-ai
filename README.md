@@ -1,2 +1,20 @@
-# mathesis-ai
-Mathesis AI — Proving that the math behind AI is already intuitive to you.
+# Mathesis AI
+
+**Revealing the intuition you already have for the math behind ML and AI.**
+
+Mathesis AI is an intuition-first visual learning project for understanding the mathematics behind machine learning and artificial intelligence.
+
+The project is built on one belief:
+
+> You already know the intuition.  
+> Mathesis AI makes the math behind ML and AI clear.
+
+Instead of starting with fear, formulas, or memorization, Mathesis AI starts with everyday intuition, visual explanation, and interactive exploration.
+
+## Status
+
+This project is in its early planning stage.
+
+## License
+
+This project is licensed under the MIT License.
